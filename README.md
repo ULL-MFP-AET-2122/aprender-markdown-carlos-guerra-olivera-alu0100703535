@@ -29,3 +29,7 @@ function fancyAlert(arg) {
 | ------------- | ----------- |
 | Fichero       | Github      |
 | Completada    | En proceso  |
+
+* Emoji :shipit:
+
+
