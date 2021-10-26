@@ -32,4 +32,5 @@ function fancyAlert(arg) {
 
 * Emoji :shipit:
 
+* [Accesomaster.md](https://github.com/CGuerra2021/master/edit/main/Master.md)
 
