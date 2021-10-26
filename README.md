@@ -15,9 +15,11 @@ Como  decia Alejandro El grande:
 * > Cuando damos a alguien nuestro tiempo, en realidad damos una parte de nuestra vida, que nunca vamos a recuperar.
 * Inline code `<https://>`
 
-* Codigo:  
-* function fancyAlert(arg) {
-*  if(arg) {
-*    $.facebox({div:'#foo'})
-*      }
-* }
+* Codigo:   
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
