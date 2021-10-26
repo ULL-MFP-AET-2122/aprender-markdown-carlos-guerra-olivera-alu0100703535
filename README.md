@@ -23,3 +23,9 @@ function fancyAlert(arg) {
   }
 }
 ```
+* Tabla:
+
+| Tarea         | Practica    |
+| ------------- | ----------- |
+| Fichero       | Github      |
+| Completada    | En proceso  |
