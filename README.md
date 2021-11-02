@@ -12,6 +12,7 @@
 2. Parar para almorzar y seguir haciendo tareas al acabar.
 3. Parar de hacer tareas y poner rumbo a la facultad para que te ensen mas tareas aun.
 4. Salir de clase modo zombie para hacer alguna otra tarea y repetir mañana lo mismo XD.
+
 Como  decia Alejandro El grande:
 * > Cuando damos a alguien nuestro tiempo, en realidad damos una parte de nuestra vida, que nunca vamos a recuperar.
 * Inline code `<https://>`
